@@ -1,4 +1,6 @@
-class VaeiableTest{
+package javaBase.varCode;
+
+class VaeiableTest {
     public static void main(String[] args) {
         
 /*     // 强制类型转换

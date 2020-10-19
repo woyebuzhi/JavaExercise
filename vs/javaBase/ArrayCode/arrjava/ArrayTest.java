@@ -1,12 +1,12 @@
 package javaBase.ArrayCode.arrjava;
-import java.util.Arrays;
+// import java.util.Arrays;
 
 /**
  * ArrayTest
  */
 public class ArrayTest {
 
-    public static void main(String[] args) {
+    public static void main( String[] args) {
    /*      int num;
         num =10;
         int id = 1001;

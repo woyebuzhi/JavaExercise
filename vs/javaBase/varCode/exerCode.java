@@ -1,4 +1,4 @@
-
+package javaBase.varCode;
 import java.util.Scanner;
 
 
@@ -61,5 +61,6 @@ for(;;){//while(true){
 System.out.println("输入的正数个数为：" + positiveNumber);
 System.out.println("输入的负数个数为：" + negativeNumber);
 
+scan.close();
     }
 }

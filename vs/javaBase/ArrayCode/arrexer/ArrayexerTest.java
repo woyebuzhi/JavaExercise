@@ -1,9 +1,5 @@
 package javaBase.ArrayCode.arrexer;
 
-import javax.sound.midi.spi.MidiFileReader;
-
-import sun.util.resources.cldr.pa.TimeZoneNames_pa;
-
 /**
  * ArrayexerTest
  */
