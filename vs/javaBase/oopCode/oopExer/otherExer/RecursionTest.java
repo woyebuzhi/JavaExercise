@@ -1,6 +1,6 @@
 //递归函数
 
-package javaBase.oopCode.oopExer;
+package javaBase.oopCode.oopExer.otherExer;
 
 
 
