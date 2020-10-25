@@ -20,9 +20,9 @@ class Base1 {
 
 class Sub1 extends Base1 {
 
-	public void add(int a, int[] arr) {
+/* 	public void add(int a, int[] arr) {
 		System.out.println("sub_1");
-	}
+	} */
 
 	public void add(int a, int b, int c) {
 		System.out.println("sub_2");
