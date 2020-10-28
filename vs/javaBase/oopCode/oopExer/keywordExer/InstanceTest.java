@@ -1,4 +1,4 @@
-package javaBase.oopCode.oopExer.Polymorphism;
+package javaBase.oopCode.oopExer.keywordExer;
 
 /**
  * InstanceTest

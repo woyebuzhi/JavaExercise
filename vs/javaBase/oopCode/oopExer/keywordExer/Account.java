@@ -1,4 +1,4 @@
-package javaBase.oopCode.oopExer.StaticExer;
+package javaBase.oopCode.oopExer.keywordExer;
 
 /**
  * Account

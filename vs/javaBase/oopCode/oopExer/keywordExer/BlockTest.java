@@ -1,4 +1,4 @@
-package javaBase.oopCode.oopExer.StaticExer;
+package javaBase.oopCode.oopExer.keywordExer;
 
 /**
  * BlockTest
@@ -11,7 +11,7 @@ public class BlockTest {
         System.out.println(desc);
 
         Person p1 = new Person();
-        Person p2 = new Person();
+        //Person p2 = new Person();
         System.out.println(p1.age);
 
         Person.info();

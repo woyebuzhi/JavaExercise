@@ -1,4 +1,4 @@
-package javaBase.oopCode.oopExer.StaticExer;
+package javaBase.oopCode.oopExer.keywordExer;
 
 /**
  * AccountTest
@@ -17,8 +17,8 @@ public class AccountTest {
 		System.out.println(acct1);
 		System.out.println(acct2);
 		
-		System.out.println(acct1.getInterestRate());
-		System.out.println(acct1.getMinMoney());
+	/* 	System.out.println(acct1.getInterestRate());
+		System.out.println(acct1.getMinMoney()); */
 	}
 	
 }

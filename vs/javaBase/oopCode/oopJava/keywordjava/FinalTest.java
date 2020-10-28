@@ -1,4 +1,4 @@
-package javaBase.oopCode.oopJava.superJava;
+package javaBase.oopCode.oopJava.keywordjava;
 
 /**
  * FinalTest
