@@ -9,7 +9,16 @@ public class MyDate {
     private int month;
     private int day;
 
-    
+    public MyDate(){
+
+    }
+
+    public MyDate(final int year, final int month, final int day) {
+        this.day = day;
+        this.month = month;
+        this.year = year;
+    }
+
     public String toDateString() {
         return year + "年" + month + "月" + day + "日";
     }
@@ -18,7 +27,7 @@ public class MyDate {
         return year;
     }
 
-    public void setYear(int year) {
+    public void setYear(final int year) {
         this.year = year;
     }
 
@@ -26,7 +35,7 @@ public class MyDate {
         return month;
     }
 
-    public void setMonth(int month) {
+    public void setMonth(final int month) {
         this.month = month;
     }
 
@@ -34,7 +43,7 @@ public class MyDate {
         return day;
     }
 
-    public void setDay(int day) {
+    public void setDay(final int day) {
         this.day = day;
     }
 

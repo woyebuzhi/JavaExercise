@@ -5,7 +5,7 @@ package javaBase.oopCode.oopExer.keywordExer.abExer;
  */
 public abstract class Employee {
 
-    private String name;
+    protected String name;
     private int number;
     private MyDate brithday;
     
