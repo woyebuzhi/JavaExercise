@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="349b2fa2-9705-4c93-8560-6bd20879ea07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/data/browser.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/data/element.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/data/requests.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/data/testcase.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/drivers/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/drivers/phantomjs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/report/HTMLTestRunner3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/report/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/report/js/echarts.common.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/report/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/report/screenshot/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/screenshots/baidu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/screenshots/vantpy2.0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/Autolt/test1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/Autolt/test1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/common/BrowserDriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/common/Seleniums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/configSQL/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/configSQL/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/configSQL/user.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/page/BaiduPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/page/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/request/token.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/testcase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/testcase/case_modle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/test/testcase/test_Baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/utils/assertion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/utils/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/utils/generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/utils/logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/utils/readFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom模型_第一次修改/vantpy2.0.emmx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k9JR3KmoKt40JMU2FGvxFzSku1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="349b2fa2-9705-4c93-8560-6bd20879ea07" name="Default Changelist" comment="" />
+      <created>1605106863639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605106863639</updated>
+    </task>
+    <servers />
+  </component>
+</project>
