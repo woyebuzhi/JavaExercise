@@ -12,6 +12,3 @@
 #     if res_code not in code_list:
 #         raise AssertionError('响应code不在列表中！')  # 抛出AssertionError，unittest会自动判别为用例Failure，不是Error
 
-#
-# def asserTitle():
-#     res_title =

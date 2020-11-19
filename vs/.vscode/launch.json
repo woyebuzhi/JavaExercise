@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ThreadDemo",
+            "request": "launch",
+            "mainClass": "javaGrade.ThreadExer.ThreadDemo",
+            "projectName": "vs_1197aed3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadTest1",
+            "request": "launch",
+            "mainClass": "javaGrade.ThreadCode.ThreadTest1",
+            "projectName": "vs_1197aed3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadMethodTest",
+            "request": "launch",
+            "mainClass": "javaGrade.ThreadCode.ThreadMethodTest",
+            "projectName": "vs_1197aed3"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
