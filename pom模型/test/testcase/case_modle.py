@@ -3,8 +3,9 @@
 import unittest
 from test.common.BrowserDriver import BrowserDriver
 from utils.config import Config
-class model(unittest.TestCase):
 
+
+class model(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
@@ -13,7 +14,6 @@ class model(unittest.TestCase):
         # password = c.get_case_data('login').get('password')
         driver = BrowserDriver(cls)
         cls.driver = driver.openbrowser(cls)
-
 
     def setUp(self):
         pass

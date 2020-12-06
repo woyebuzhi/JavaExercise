@@ -8,6 +8,7 @@ from test.page.BaiduPage import BaiduPage
 from test.testcase.case_modle import *
 from test.common.BrowserDriver import BrowserDriver
 
+
 class BaiduCase(model):
 
     def test_baidu1(self):
