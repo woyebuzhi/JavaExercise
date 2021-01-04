@@ -14,7 +14,15 @@
         <param-value>123456</param-value>
     </context-param>
     
-    
+    <servlet>
+        <servlet-name>RequestAPIServlet</servlet-name>
+        <servlet-class>com.atguigu.servlet2.RequestAPIServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RequestAPIServlet</servlet-name>
+        <url-pattern>/requestAPIServlet</url-pattern>
+    </servlet-mapping>
+
     <servlet>
         <servlet-name>HelloServlet</servlet-name>
         <servlet-class>com.atguigu.servlet.HelloServlet</servlet-class>
@@ -68,6 +76,15 @@
         <servlet-name>Servlet3</servlet-name>
         <servlet-class>com.atguigu.servlet.Servlet3</servlet-class>
     </servlet>
+
+    <servlet>
+        <servlet-name>RequestAPIParmart</servlet-name>
+        <servlet-class>com.atguigu.servlet2.RequestAPIParmart</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RequestAPIParmart</servlet-name>
+        <url-pattern>/requestAPIParmart</url-pattern>
+    </servlet-mapping>
 
 
     <servlet-mapping>
