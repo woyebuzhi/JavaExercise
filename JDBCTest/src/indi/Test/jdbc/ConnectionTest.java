@@ -51,7 +51,7 @@ public class ConnectionTest {
         Class clazz = Class.forName("com.mysql.jdbc.Driver");
         Driver driver = (Driver) clazz.newInstance();
 
-        String url = "jdbc:mysql://192.168.5.5:3306/mysql";
+        String url = "jdbc:mysql://192.168.5.5:3306/xxx";
         String user = "root";
         String password = "123456";
 
